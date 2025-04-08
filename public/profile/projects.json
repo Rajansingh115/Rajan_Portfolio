@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "images/projects/varnz.jpg",
             "title": "Varnz.ai",
             "bodyText": "Varnz.ai Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
+            "image" : "images/projects/POS.jpg",
             "title": "POS Web App",
             "bodyText": "- POS Web app made using React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "tags" : [
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
+            "image" : "images/projects/food.jpg",
             "title": "Food Delivery Web App",
            "bodyText": "- Food Delivery Web app made using React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "tags" : [
