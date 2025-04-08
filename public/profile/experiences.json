@@ -2,13 +2,23 @@
     "experiences": [
         {
             "title": "Software Engineer",
+            "subtitle": "Freelancer",
+            "workType": "Part-time",
+            "workDescription": [
+                "Developed New Things in Current Project.",
+                "Working On CodyRise Project."
+            ],
+            "dateText": "07/2024 – 03/2025"
+        },
+        {
+            "title": "Software Engineer",
             "subtitle": "WebGarh Solutions Pvt Ltd",
             "workType": "Full-time",
             "workDescription": [
                 "Developed New Things in Current Project.",
                 "Working On Automate Message generate Project."
             ],
-            "dateText": "08/2023 – Present"
+            "dateText": "08/2023 – 06/2024"
         },
         {
             "title": "Associate Software Engineer",
