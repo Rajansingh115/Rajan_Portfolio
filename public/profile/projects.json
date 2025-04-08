@@ -39,6 +39,7 @@
             ]
         },
         {
+            "image" : "images/projects/driver.jpg",
             "title": "Driver Web App",
             "bodyText": "- Driver Web app made using React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "tags" : [
@@ -48,7 +49,8 @@
                 "Node Js"            
             ]
         },
-        {
+        {   
+            "image" : "images/projects/admin_dashboard.png",
             "title": "Marchant Admin Panel Web App",
             "bodyText": "- Marchant Admin Panel Web app made using React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "tags" : [
@@ -58,7 +60,8 @@
                 "Node Js"            
             ]
         },
-        {
+        {   
+            "image" : "images/projects/scrapping.png",
             "title": "Web Scrapping Project",
             "bodyText": "- Web Scrapping Project made using Python\n -  Scraps data from **Flipkart** and **Many Other websites**.\n -  Uses **BeautifulSoup** and **Selenium** for scrapping.",
             "links": [
@@ -73,7 +76,8 @@
                 "BeautifulSoup"
             ]
         },
-        {
+        {   
+            "image" : "images/projects/python-django.webp",
             "title": "Django Project",
             "bodyText": "- A simple **Django** web app.\n - Uses **SQLite** database to store data.",
             "links": [
@@ -89,7 +93,8 @@
             ]
 
         },
-        {
+        {   
+            "image" : "images/projects/audioPlayer.jpg",
             "title": "React Audio Player",
             "bodyText": "- A simple **React** audio player.\n - Uses **HTML5** audio tag to play audio.",
             "links": [
